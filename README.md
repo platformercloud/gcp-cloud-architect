@@ -21,4 +21,10 @@ The Google Cloud Certified - Professional Cloud Architect exam assesses your abi
 * [GCP Essentials](https://qwiklabs.com/quests/23?locale=en)
 * [Cloud Architecture](https://qwiklabs.com/quests/24?locale=en)
 
-Will add more references and the analysis of the Case Studies !!!
+### Google References
+* [Summary of Google GCP Services] (https://cloud.google.com/terms/services)
+* [Solutions] (https://cloud.google.com/solutions/)
+* [Architecture Diagrams] (https://cloud.google.com/docs/tutorials#architecture)
+
+### Analysis of Case Studies
+* TBA : Will add more references and the analysis of the Case Studies !!!
