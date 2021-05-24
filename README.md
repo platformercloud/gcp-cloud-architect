@@ -33,3 +33,5 @@ The Google Cloud Certified - Professional Cloud Architect exam assesses your abi
 * [GCP flow charts a day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
 * [GCP services summary](https://cloud.google.com/terms/services)
 * [GCP products in less than 4 words](https://github.com/agasthik/GoogleCloudArchitectProfessional/blob/master/GCP-Products-Cheat-Sheet.md)
+
+Licensed Under - [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/)
